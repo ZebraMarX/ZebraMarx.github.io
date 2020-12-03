@@ -19,15 +19,18 @@
 ]]></content>
   </entry>
   <entry>
-    <title>my new post</title>
+    <title>test post</title>
     <url>/2020/11/04/my-new-post/</url>
     <content><![CDATA[<p>first chapter<br>second chapter<br>third chapter</p>
 <p>thank you very much</p>
 ]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>Markdown test</title>
-    <url>/2020/12/03/Markdown%20test/</url>
+    <url>/2020/11/17/Markdown%20test/</url>
     <content><![CDATA[<h1 id="One"><a href="#One" class="headerlink" title="One"></a>One</h1><h1 id="This-is-Markdown-test"><a href="#This-is-Markdown-test" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h1><h2 id="This-is-Markdown-test-1"><a href="#This-is-Markdown-test-1" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h2><h3 id="This-is-Markdown-test-2"><a href="#This-is-Markdown-test-2" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h3><h4 id="This-is-Markdown-test-3"><a href="#This-is-Markdown-test-3" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h4><h5 id="This-is-Markdown-test-4"><a href="#This-is-Markdown-test-4" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h5><h6 id="THis-is-Markdown-test"><a href="#THis-is-Markdown-test" class="headerlink" title="THis is Markdown test!"></a>THis is Markdown test!</h6><h1 id="Two"><a href="#Two" class="headerlink" title="Two"></a>Two</h1><p>** The plowman homeward plods his weary way **</p>
 <ul>
 <li>The plowman homeward plods his weary way *</li>
@@ -88,7 +91,7 @@
   </entry>
   <entry>
     <title>Markdown test 2</title>
-    <url>/2020/12/03/Markdown-test-2/</url>
+    <url>/2020/11/27/Markdown-test-2/</url>
     <content><![CDATA[<h1 id="One"><a href="#One" class="headerlink" title="One"></a>One</h1><h1 id="This-is-Markdown-test"><a href="#This-is-Markdown-test" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h1><h2 id="This-is-Markdown-test-1"><a href="#This-is-Markdown-test-1" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h2><h3 id="This-is-Markdown-test-2"><a href="#This-is-Markdown-test-2" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h3><h4 id="This-is-Markdown-test-3"><a href="#This-is-Markdown-test-3" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h4><h5 id="This-is-Markdown-test-4"><a href="#This-is-Markdown-test-4" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h5><h6 id="THis-is-Markdown-test"><a href="#THis-is-Markdown-test" class="headerlink" title="THis is Markdown test!"></a>THis is Markdown test!</h6><h1 id="Two"><a href="#Two" class="headerlink" title="Two"></a>Two</h1><p><strong>The plowman homeward plods his weary way</strong><br><em>The plowman homeward plods his weary way</em><br><strong><em>The plowman homeward plods his weary way</em></strong><br><del>I do not think it is needed to use it</del></p>
 <h1 id="Three"><a href="#Three" class="headerlink" title="Three"></a>Three</h1><blockquote>
 <p> To make a prairie it takes a clover and one bee,<br> One clover and a bee<br> And revery.<br> The revery alone will do,<br> If bees are few.</p>
@@ -145,15 +148,36 @@
   </entry>
   <entry>
     <title>Markdown test 3</title>
-    <url>/2020/12/03/Markdown-test-3/</url>
-    <content><![CDATA[<h1 id="One"><a href="#One" class="headerlink" title="One"></a>One</h1><h1 id="This-is-Markdown-test"><a href="#This-is-Markdown-test" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h1><h2 id="This-is-Markdown-test-1"><a href="#This-is-Markdown-test-1" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h2><h3 id="This-is-Markdown-test-2"><a href="#This-is-Markdown-test-2" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h3><h4 id="This-is-Markdown-test-3"><a href="#This-is-Markdown-test-3" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h4><h5 id="This-is-Markdown-test-4"><a href="#This-is-Markdown-test-4" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h5><h6 id="This-is-Markdown-test-5"><a href="#This-is-Markdown-test-5" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h6><h1 id="Two"><a href="#Two" class="headerlink" title="Two"></a>Two</h1><p><strong>The plowman homeward plods his weary way</strong><br><em>The plowman homeward plods his weary way</em><br><strong><em>The plowman homeward plods his weary way</em></strong><br><del>I do not think it is needed to use it</del></p>
+    <url>/2020/12/01/Markdown-test-3/</url>
+    <content><![CDATA[<br>
+
+<h1 id="One"><a href="#One" class="headerlink" title="One"></a>One</h1><br>
+
+<h1 id="This-is-Markdown-test"><a href="#This-is-Markdown-test" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h1><h2 id="This-is-Markdown-test-1"><a href="#This-is-Markdown-test-1" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h2><h3 id="This-is-Markdown-test-2"><a href="#This-is-Markdown-test-2" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h3><h4 id="This-is-Markdown-test-3"><a href="#This-is-Markdown-test-3" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h4><h5 id="This-is-Markdown-test-4"><a href="#This-is-Markdown-test-4" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h5><h6 id="This-is-Markdown-test-5"><a href="#This-is-Markdown-test-5" class="headerlink" title="This is Markdown test!"></a>This is Markdown test!</h6> <br>
+
+<h1 id="Two"><a href="#Two" class="headerlink" title="Two"></a>Two</h1><p><strong>The plowman homeward plods his weary way</strong><br><em>The plowman homeward plods his weary way</em><br><strong><em>The plowman homeward plods his weary way</em></strong><br><del>I do not think it is needed to use it</del></p>
+<br>
+
 <h1 id="Three"><a href="#Three" class="headerlink" title="Three"></a>Three</h1><blockquote>
 <p> To make a prairie it takes a clover and one bee,<br> One clover and a bee<br> And revery.<br> The revery alone will do,<br> If bees are few.</p>
 <p> —–Emily Dickinson</p>
 </blockquote>
+<br>
+<br>
+
 <h1 id="Four"><a href="#Four" class="headerlink" title="Four"></a>Four</h1><hr>
-<h1 id="Five"><a href="#Five" class="headerlink" title="Five"></a>Five</h1><p><img src="/2020/12/03/Markdown-test-3/1.png" alt="1"></p>
+<br>
+<br>
+
+
+<h1 id="Five"><a href="#Five" class="headerlink" title="Five"></a>Five</h1><p><img src="/2020/12/01/Markdown-test-3/1.png" alt="1"></p>
+<br>
+<br>
+
 <h1 id="Six"><a href="#Six" class="headerlink" title="Six"></a>Six</h1><p><a href="https://www.yeezysupply.com/">Yeezysupply</a></p>
+<br>
+<br>
+
 <h1 id="Seven"><a href="#Seven" class="headerlink" title="Seven"></a>Seven</h1><ul>
 <li>List</li>
 </ul>
@@ -175,6 +199,9 @@
 </ul>
 </li>
 </ul>
+<br>
+<br>
+
 <h1 id="Eight"><a href="#Eight" class="headerlink" title="Eight"></a>Eight</h1><table>
 <thead>
 <tr>
@@ -194,11 +221,75 @@
 <td align="right">Content2</td>
 </tr>
 </tbody></table>
+<br>
+<br>
+
 <h1 id="Nine"><a href="#Nine" class="headerlink" title="Nine"></a>Nine</h1><p> <code>NIUBI!!!</code></p>
-<h1 id="Ten"><a href="#Ten" class="headerlink" title="Ten"></a>Ten</h1><p>  No More</p>
+<br>
+<br>
+
+<h1 id="Ten"><a href="#Ten" class="headerlink" title="Ten"></a>Ten</h1><p>  One more thing?</p>
 ]]></content>
       <tags>
         <tag>Test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中文測試</title>
+    <url>/2020/12/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</url>
+    <content><![CDATA[<br>
+<br>
+
+<h1 id="中文測試"><a href="#中文測試" class="headerlink" title="中文測試"></a>中文測試</h1><br>
+———————————————————  
+<br>
+<br>
+<br>
+<font face="黑体">苏轼</font>
+<font face="微软雅黑">苏东坡</font>
+<font face="STCAIYUN">苏子瞻</font>
+<font color="red">王朝云</font>
+<font color="coral">王闰之</font>
+<font color="LightCoral">王弗</font>
+<br>
+<br>
+<br>
+
+<p>———————————————————<br><br></p>
+<h1 id="定风波·莫听穿林打叶声"><a href="#定风波·莫听穿林打叶声" class="headerlink" title="定风波·莫听穿林打叶声"></a>定风波·莫听穿林打叶声</h1><p><em>苏轼</em>  </p>
+<br>
+
+<blockquote>
+<p>三月七日，沙湖道中遇雨。雨具先去，同行皆狼狈，余独不觉，已而遂晴，故作此。  </p>
+</blockquote>
+<br>
+
+<p>  <strong>莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕，一蓑烟雨任平生。</strong><br><br><br>  <strong>料峭春风吹酒醒，微冷，山头斜照却相迎。回首向来萧瑟处，归去，也无风雨也无晴。</strong><br><br><br><br></p>
+<p>———————————————————<br><br><br><br></p>
+<h1 id="卜算子·咏梅"><a href="#卜算子·咏梅" class="headerlink" title="卜算子·咏梅"></a>卜算子·咏梅</h1><p><em>毛泽东</em>  </p>
+<br>
+
+<p>  <strong>风雨送春归，飞雪迎春到。已是悬崖百丈冰，犹有花枝俏。</strong>  </p>
+<p>  <strong>俏也不争春，只把春来报。待到山花烂漫时，她在丛中笑。</strong>  </p>
+<br>
+<br>
+
+<p>——————————————————— </p>
+<br>
+<br>
+
+
+<h1 id="河北墨麒麟"><a href="#河北墨麒麟" class="headerlink" title="河北墨麒麟"></a>河北墨麒麟</h1><p><em>姬赓</em>  </p>
+<br>
+
+<p>  <strong>听雷声 滚滚</strong><br>  <strong>他默默 闭紧嘴唇</strong><br>  <strong>停止吟唱暮色与想念</strong><br>  <strong>他此刻沉痛而危险<br>  听雷声 滚滚<br>  他渐渐 感到胸闷<br>  乌云阻拦明月涌河湾<br>  他起身独立向荒原<br>  试试 冰冷昂贵<br>  入云涉水的轻身术<br>  看看 演员王公<br>  游民盗贼的心电图</strong>  </p>
+<br>
+<br>
+
+<p>———————————————————</p>
+]]></content>
+      <tags>
+        <tag>test</tag>
       </tags>
   </entry>
 </search>
