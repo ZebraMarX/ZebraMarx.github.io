@@ -779,13 +779,13 @@ header label {
   color: #eee;
 }
 .post-content a {
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-content a {
   color: #eee;
 }
 .post-content a:hover {
-  color: #ef3982;
+  color: #6A5ACD;
 }
 .dark-theme .post-content a:hover:hover {
   color: #fff;
