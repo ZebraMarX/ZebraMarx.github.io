@@ -621,7 +621,7 @@ header label {
   white-space: nowrap;
 }
 .archive-item-link:hover {
-  color: #2d96bd;
+  color: #008080;
   background-color: transparent;
 }
 .dark-theme .archive-item-link {
@@ -683,7 +683,7 @@ header label {
 .tag-cloud-tags a:active,
 .tag-cloud-tags a:focus,
 .tag-cloud-tags a:hover {
-  color: #2d96bd;
+  color: #008080;
   transform: scale(1.1);
 }
 .dark-theme .tag-cloud-tags a:active,
@@ -927,13 +927,13 @@ header label {
   border-bottom: 1px solid #e8e8e8;
 }
 .post-copyright a {
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-copyright a {
   color: #eee;
 }
 .post-copyright a:hover {
-  color: #ef3982;
+  color: #6a5acd;
 }
 .dark-theme .post-copyright a:hover {
   color: #fff;
@@ -1097,7 +1097,7 @@ header label {
   background-color: #fff;
 }
 .post-toc .is-active-link::before {
-  background-color: #2d96bd;
+  background-color: #008080;
 }
 .post-toc .tocbot-list-menu {
   margin: 1rem 0.75rem;
