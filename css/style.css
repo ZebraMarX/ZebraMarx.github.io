@@ -749,7 +749,7 @@ header label {
 .post-content h1::before {
   content: "#";
   margin-right: 5px;
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-content h1::before {
   color: #eee;
@@ -757,7 +757,7 @@ header label {
 .post-content h2::before {
   content: "#";
   margin-right: 5px;
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-content h2::before {
   color: #eee;
@@ -765,7 +765,7 @@ header label {
 .post-content h3::before {
   content: "|";
   margin-right: 5px;
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-content h3::before {
   color: #eee;
@@ -773,7 +773,7 @@ header label {
 .post-content h4::before {
   content: "*";
   margin-right: 5px;
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-content h4::before {
   color: #eee;
