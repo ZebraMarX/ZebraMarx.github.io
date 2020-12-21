@@ -723,13 +723,13 @@ header label {
   color: #87878d !important;
 }
 .post-wrap .post-meta a {
-  color: #2d96bd;
+  color: #008080;
 }
 .dark-theme .post-wrap .post-meta a {
   color: #eee;
 }
 .post-wrap .post-meta a:hover {
-  color: #ef3982;
+  color: #6A5ACD;
 }
 .dark-theme .post-wrap .post-meta a:hover {
   color: #fff;
