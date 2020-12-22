@@ -28,8 +28,8 @@
 }
 .footer {
   height: 4rem;
-  width: 100%;
-  text-align: center;
-  line-height: 4rem;
+  width: 95%;
+  text-align: right;
+  line-height: 0.001rem;
   padding-top: 2em;
 }
