@@ -241,7 +241,7 @@ a:hover {
 .footer {
   height: 4rem;
   width: 100%;
-  text-align: center;
+  text-align: right;
   line-height: 4rem;
   padding-top: 2em;
 }
