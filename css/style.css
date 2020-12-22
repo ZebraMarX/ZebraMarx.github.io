@@ -1228,9 +1228,9 @@ header label {
   }
   .footer {
     height: 3rem;
-    width: 100%;
-    text-align: center;
-    line-height: 1.5rem;
+    width: 98%;
+    text-align: right;
+    line-height: 0.001rem;
     padding-top: 2em;
   }
   .post-warp {
