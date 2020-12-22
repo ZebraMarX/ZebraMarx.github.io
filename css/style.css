@@ -242,7 +242,7 @@ a:hover {
   height: 4rem;
   width: 100%;
   text-align: right;
-  line-height: 4rem;
+  line-height: 0.1rem;
   padding-top: 2em;
 }
 @charset "utf-8";
